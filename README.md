@@ -1,21 +1,6 @@
 ### Hi there 👋 I'm Parin Sopitlaptana
 
-<!--
-**6210612740/6210612740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning Web applications 🌐
+- 🌱 I’m currently learning Mobile App Daeveloping and Machine Learning 🌐
 
 ### Specialize in:
 
@@ -23,6 +8,9 @@ Here are some ideas to get you started:
 - Frontend development
 - Full Stack development
 - Web applications
+- Machine Learning
+- Data Analysis
+- Mobile App Devlevoper
 
 ### Languages and Tools:
 
@@ -32,12 +20,19 @@ Here are some ideas to get you started:
 - Django
 - HTML
 - CSS
+- Kotlin
+
+### Communication Skill
+- English
+- Japanese N5
+- Thai (Native)
+
 
 ### 📫 Reach me here:
 
-> 📧 Email : <day25436@hotmail.co.th> or <monday25436@gmail.com>
+> 📧 Email : parinsopitlaptana@gmail.com
 > <br>
-> 📱  Phone : 083-0610124
+> 📱  Phone : 0830088254
 
 <br>
 
