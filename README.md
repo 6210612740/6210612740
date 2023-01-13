@@ -16,17 +16,22 @@
 
 - Python
 - Java
+- Springboot
 - Javascript
 - Django
 - HTML
 - CSS
 - Kotlin
+- Blender
 
 ### Communication Skill
 - English
 - Japanese N5
 - Thai (Native)
 
+### Work
+- I have been intern in plusitsolution 
+- I currently work part-time in zeen innovation as Backend Developer
 
 ### 📫 Reach me here:
 
@@ -36,4 +41,4 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=6210612740&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
+
